@@ -12,7 +12,7 @@ int main()
         scanf("%d %d", &a, &b);
         printf("Sum: %d\n", a + b);
     }
-    else if(option==1){
+    else if(option==2){
         int a, b;
         printf("Enter Two Numbers\n");
         scanf("%d %d", &a, &b);
